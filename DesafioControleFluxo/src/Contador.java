@@ -12,7 +12,6 @@ public class Contador {
         int parametroDois = 30;
 
 		try {
-			//chamando o método contendo a lógica de contagem
 
 			contar(parametroUm, parametroDois);
 		
@@ -32,12 +31,7 @@ public class Contador {
 			System.out.println("Número = "+(i+1));
 		}
 
-        //realizar o for para imprimir os números com base na variável contagem           
-
-
-	}
-
-    
+	}    
 	
 }
 
